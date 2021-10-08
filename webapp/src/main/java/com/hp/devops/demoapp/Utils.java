@@ -10,7 +10,7 @@ public class Utils {
 		if (input != null) {
 			for (String node : input.split("/")) {
 				if (node.compareTo("") != 0 && node.compareTo("api") != 0) {
-					System.out.println("updated to fail test sdf  ");
+					System.out.println("updated to fail test sdff  ");
 					nodes.add(node);
 					System.out.println("updated to fail test sdf  ");
 					System.out.println("updated to fail test sdf  ");
